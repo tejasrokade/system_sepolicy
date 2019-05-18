@@ -1408,4 +1408,5 @@ neverallow {
   -init
   -ueventd
   -charger
+  -vold
 } mnt_vendor_file:dir *;
